@@ -15,6 +15,9 @@ This is why my AI learning repo starts with GitHub — to build investor- and re
 ## Embeddings = profile cards; AI uses them for similarity decisions.
 AI defines similarity mathematically, using vectors—numerical representations of data points (words, products, patients, etc.). These vectors live in a multi-dimensional space, and similarity is measured by how close they are to each other (using metrics like cosine similarity or Euclidean distance).
 
+## Embeddings
+The core concept of word embeddings is that every word used in a language can be represented by a set of real numbers (a vector). They have learned representations of text in an n-dimensional space where words that have the same meaning have a similar representation. That means two similar words are placed very closely in vector space almost having similar vector representations. So, When constructing a word embedding space the goal is to capture some sort of relationship in that space, be it meaning, morphology, context, or some other kind of relationship.
+
 ## Embeddings = profile cards.
 Every patient, customer, or product gets turned into a vector (like a multi-attribute card).
 
@@ -27,3 +30,4 @@ Every patient, customer, or product gets turned into a vector (like a multi-attr
 - **Language: AI connects context → GPT can answer semantically, not literally.
 
 Leader’s takeaway: You don’t compute vectors yourself, but you must know what decisions embeddings enable (recommendations, clustering, personalization, multimodal analysis).
+
