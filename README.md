@@ -12,4 +12,5 @@ Version control isn’t just an engineering best practice — it’s a complianc
 
 This is why my AI learning repo starts with GitHub — to build investor- and regulator-ready discipline from day one. 
 
+## Embeddings = profile cards; AI uses them for similarity decisions.
 AI defines similarity mathematically, using vectors—numerical representations of data points (words, products, patients, etc.). These vectors live in a multi-dimensional space, and similarity is measured by how close they are to each other (using metrics like cosine similarity or Euclidean distance).
