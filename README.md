@@ -40,3 +40,17 @@ Every patient, customer, or product gets turned into a vector (like a multi-attr
 
 Leader’s takeaway: You don’t compute vectors yourself, but you must know what decisions embeddings enable (recommendations, clustering, personalization, multimodal analysis).
 
+## How probability connects to business risk.
+
+AI = likelihoods, not certainties.
+Predictions are expressed as probabilities (e.g., “70% churn risk”) — they’re never binary truth.
+
+False Positives vs False Negatives = business trade-offs.
+
+- Healthcare: Missing a sick patient (false negative) = catastrophic risk.
+
+- Retail: Over-predicting demand (false positive) = wasted discounts + lost margin.
+
+Probability mindset = better decisions.
+Leaders must ask: “What’s the cost of being wrong?”, not just “What’s the accuracy?”
+
